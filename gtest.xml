@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="7" failures="0" disabled="0" errors="0" time="0.108" timestamp="2022-05-10T11:28:21" name="AllTests">
+  <testsuite name="soccer_exhaustive_invalid_argument" tests="1" failures="0" disabled="0" errors="0" time="0.026" timestamp="2022-05-10T11:28:21">
+    <testcase name="invalid_argument" status="run" result="completed" time="0.026" timestamp="2022-05-10T11:28:21" classname="soccer_exhaustive_invalid_argument" />
+  </testsuite>
+  <testsuite name="soccer_exhaustive_trivial_instances" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2022-05-10T11:28:21">
+    <testcase name="trivial_instances" status="run" result="completed" time="0" timestamp="2022-05-10T11:28:21" classname="soccer_exhaustive_trivial_instances" />
+  </testsuite>
+  <testsuite name="soccer_exhaustive_general_instances" tests="1" failures="0" disabled="0" errors="0" time="0.016" timestamp="2022-05-10T11:28:21">
+    <testcase name="general_instances" status="run" result="completed" time="0.016" timestamp="2022-05-10T11:28:21" classname="soccer_exhaustive_general_instances" />
+  </testsuite>
+  <testsuite name="soccer_dyn_prog_invalid_argument" tests="1" failures="0" disabled="0" errors="0" time="0.006" timestamp="2022-05-10T11:28:21">
+    <testcase name="invalid_argument" status="run" result="completed" time="0.006" timestamp="2022-05-10T11:28:21" classname="soccer_dyn_prog_invalid_argument" />
+  </testsuite>
+  <testsuite name="soccer_dyn_prog_trivial_instances" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2022-05-10T11:28:21">
+    <testcase name="trivial_instances" status="run" result="completed" time="0" timestamp="2022-05-10T11:28:21" classname="soccer_dyn_prog_trivial_instances" />
+  </testsuite>
+  <testsuite name="soccer_dyn_prog_general_instances" tests="1" failures="0" disabled="0" errors="0" time="0.001" timestamp="2022-05-10T11:28:21">
+    <testcase name="general_instances" status="run" result="completed" time="0.001" timestamp="2022-05-10T11:28:21" classname="soccer_dyn_prog_general_instances" />
+  </testsuite>
+  <testsuite name="soccer_dyn_prog_large_instances" tests="1" failures="0" disabled="0" errors="0" time="0.059" timestamp="2022-05-10T11:28:21">
+    <testcase name="large_instances" status="run" result="completed" time="0.059" timestamp="2022-05-10T11:28:21" classname="soccer_dyn_prog_large_instances" />
+  </testsuite>
+</testsuites>
